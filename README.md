@@ -3,7 +3,7 @@ Template for a discord bot made with Discord.Net library
 
 Basic bot template, which uses Serilog as a default logger.
 
-##Usage
+## Usage
 
 1. Clone this repo
 2. If needed, delete bin, obj and .Vscode folders
