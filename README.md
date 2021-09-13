@@ -9,3 +9,10 @@ Basic bot template, which uses Serilog as a default logger.
 2. If needed, delete bin, obj and .Vscode folders
 3. Edit appsettings.json file to add your own prefix and bot token
 4. Enjoy the art of working with Discord API
+
+## Adding to templates
+Execute this command:
+
+`dotnet new -i ./`
+
+if you use windows instead of using `./`, use `.\`
