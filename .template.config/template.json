@@ -1,0 +1,9 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Filip Kwiek",
+    "classifications": [ "Common", "Console" ],
+    "identity": "Discord.Net.bot.template",
+    "name": "Discord bot",
+    "shortName": "DiscordBot"
+  }
+  
